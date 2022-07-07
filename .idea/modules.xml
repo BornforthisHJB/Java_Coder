@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01-马诗员/01-马诗员.iml" filepath="$PROJECT_DIR$/01-马诗员/01-马诗员.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StudentCoder/Coder03/Coder03.iml" filepath="$PROJECT_DIR$/StudentCoder/Coder03/Coder03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Coder04/Coder04.iml" filepath="$PROJECT_DIR$/Coder04/Coder04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Coder05/Coder05.iml" filepath="$PROJECT_DIR$/Coder05/Coder05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Coder06/Coder06.iml" filepath="$PROJECT_DIR$/Coder06/Coder06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Coder07/Coder07.iml" filepath="$PROJECT_DIR$/Coder07/Coder07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StudentCoder/Coder08/Coder08.iml" filepath="$PROJECT_DIR$/StudentCoder/Coder08/Coder08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StudentCoder/Coder09/Coder09.iml" filepath="$PROJECT_DIR$/StudentCoder/Coder09/Coder09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java_Coder.iml" filepath="$PROJECT_DIR$/.idea/Java_Coder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/QuickSand/QuickSand.iml" filepath="$PROJECT_DIR$/QuickSand/QuickSand.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Student_Coder/Student_Coder.iml" filepath="$PROJECT_DIR$/Student_Coder/Student_Coder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StudentCoder/demo/demo.iml" filepath="$PROJECT_DIR$/StudentCoder/demo/demo.iml" />
+    </modules>
+  </component>
+</project>
