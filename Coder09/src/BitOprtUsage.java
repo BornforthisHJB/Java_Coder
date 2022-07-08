@@ -2,7 +2,7 @@ public class BitOprtUsage {
     public static void main(String[] args) {
         int base = 1;
         int is_student_mask = base;
-        int is_programmer_mask = base << 1;
+        int is_programmer_mask = base << 1; // 0001 -> 
         int is_driver_mask = base << 2;
         int is_painter_mask = base << 3;
 

@@ -15,7 +15,9 @@ public class BitOprtNotChangeVariableValue {
         */
 
         System.out.println(a | 0x8);
-        /* 原码：*/
+        /* a 原码：  0100 0000 0000
+        *  0x8 原码：0000 0000 1000
+        *           0100 0000 1000 -> 1032*/
 
         System.out.println(a);  // 1024
     }
