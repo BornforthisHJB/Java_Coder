@@ -1,6 +1,9 @@
-public class demo {
-    public static void main(String[] args) {
-        System.out.println("Hello QuickSand!");
-    }
-}
-//println line
+/*
+# 从加减乘除到变量
+title：从加减乘除到变量
+* 1. 计算加减乘除
+* 2. 基本数据类型——int
+* 3. 关键字（key word）和标示符（identifier）
+* 4. 用变量解决问题
+* */
+
