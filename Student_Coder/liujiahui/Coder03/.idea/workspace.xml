@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c4b794ba-142a-4323-bd73-bd9acdb9e024" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../Coder18/src/Birthday.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Coder18/src/Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Coder18/src/RandomNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Coder18/src/ddd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Coder18/src/demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder01/src/QuickSand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder02/src/MathCalc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder02/src/MathCalc2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder02/src/QuickSand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder02/src/Variable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder02/src/Variable1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder02/src/variable3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BigNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../曲祖延/lesson06/src/CalcValueLoss.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../曲祖延/lesson06/src/ForceConvert2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../曲祖延/lesson06/src/ForceConvertValueLoss.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../曲祖延/lesson06/src/demo10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../曲祖延/lesson06/src/ForceConvert.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../曲祖延/lesson06/src/ForceConvert.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Ewpm3Y60t4GcjNovgA4ggtCDIZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="BigNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BigNumber" />
+      <module name="Coder03" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BigNumber" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c4b794ba-142a-4323-bd73-bd9acdb9e024" name="Changes" comment="" />
+      <created>1663516659600</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1663516659600</updated>
+      <workItem from="1663516660703" duration="52000" />
+      <workItem from="1663516806635" duration="919000" />
+      <workItem from="1663546811669" duration="98000" />
+      <workItem from="1663665411196" duration="3236000" />
+      <workItem from="1663744346681" duration="12000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

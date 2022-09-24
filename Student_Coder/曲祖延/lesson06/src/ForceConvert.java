@@ -15,6 +15,5 @@ public class ForceConvert {
         char b = (char) a;
         System.out.println(b);
 //        System.out.println();
-
     }
 }
