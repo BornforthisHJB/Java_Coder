@@ -38,26 +38,27 @@ public class demo {
         // -------------------------------
 //        36 / 3 = 12
 //        lx.min_rhombus_up();
-        demo.min_rhombus_up();
+        demo.min_rhombus_up_and_down();
         demo.min_rhombus_middle();
-        demo.min_rhombus_down();
-//        System.out.println("");
-//        demo.min_rhombus_middle();
-//        demo.min_rhombus_down();
-
+        demo.min_rhombus_up_and_down();
+        demo.min_rhombus_middle();
+        demo.min_rhombus_up_and_down();
+        demo.min_rhombus_middle();
+        demo.min_rhombus_up_and_down();
 
     }
 
-    public static void min_rhombus_up() {
+    public static void min_rhombus_up_and_down() {
         // 小菱形 上
         for (int i = 0; i < 6; i++) {
             for (int j = 0; j < 2; j++) {
                 System.out.print("");
 //                System.out.print(" ");
             }
-            System.out.print("--*");
+            System.out.print("-^*");
+//            System.out.print("--*");
 //            System.out.print("*");
-            System.out.print("-- ");
+            System.out.print("^- ");
 //            System.out.print("   ");
         }
         System.out.println("");
@@ -74,15 +75,15 @@ public class demo {
         System.out.println("");
     }
 
-    public static void min_rhombus_down() {
-        // 小菱形 下
-        for (int i = 0; i < 6; i++) {
-            for (int j = 0; j < 2; j++) {
-                System.out.print(" ");
-            }
-            System.out.print("*");
-            System.out.print("   ");
-        }
-    }
+//    public static void min_rhombus_down() {
+//        // 小菱形 下
+//        for (int i = 0; i < 6; i++) {
+//            for (int j = 0; j < 2; j++) {
+//                System.out.print(" ");
+//            }
+//            System.out.print("*");
+//            System.out.print("   ");
+//        }
+//    }
 }
 
