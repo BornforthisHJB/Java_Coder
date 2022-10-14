@@ -6,7 +6,6 @@ public class demo {
         line();
         // -------------------------------
 //        36 / 3 = 12
-//        lx.min_rhombus_up();
         demo.min_rhombus_up_and_down();
         demo.min_rhombus_middle("*");
         demo.min_rhombus_up_and_down();
@@ -17,6 +16,11 @@ public class demo {
         demo.min_rhombus_middle("*");
         demo.min_rhombus_up_and_down();
 
+        line();
+        space_line(" ", "*");
+        space_line("*", " ");
+        line();
+
     }
 
     public static void min_rhombus_up_and_down() {
@@ -24,13 +28,15 @@ public class demo {
         for (int i = 0; i < 6; i++) {
             for (int j = 0; j < 2; j++) {
                 System.out.print("");
-//                System.out.print(" ");
             }
-            System.out.print("-^*");
-//            System.out.print("--*");
-//            System.out.print("*");
-            System.out.print("^- ");
-//            System.out.print("   ");
+//            System.out.print("-^*");
+            System.out.print("-");
+            System.out.print("^");
+            System.out.print("*");
+//            System.out.print("^- ");
+            System.out.print("^");
+            System.out.print("-");
+            System.out.print(" ");
         }
         System.out.println("");
     }

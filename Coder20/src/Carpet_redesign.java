@@ -12,41 +12,6 @@ public class Carpet_redesign {
         space_line("*", " ");
         space_line(" ", "*");
         line();
-//        for (int i = 0; i < 36; i++) {
-//            System.out.print("*");
-//        }
-//        System.out.println("");
-
-//        for (int i = 0; i < 2; i++) {
-//            for (int j = 0; j < 6; j++) {
-//                for (int k = 0; k < 3; k++) {
-//                    System.out.print("*");
-//                }
-//                for (int k = 0; k < 3; k++) {
-//                    System.out.print(" ");
-//                }
-//
-//            }
-//            System.out.println("");
-//        }
-
-//        for (int i = 0; i < 2; i++) {
-//            for (int j = 0; j < 6; j++) {
-//                for (int k = 0; k < 3; k++) {
-//                    System.out.print(" ");
-//                }
-//                for (int k = 0; k < 3; k++) {
-//                    System.out.print("*");
-//                }
-//
-//            }
-//            System.out.println("");
-//        }
-//        for (int i = 0; i < 36; i++) {
-//            System.out.print("*");
-//        }
-//        System.out.println("");
-        line();
         // -------------------------------
 //        36 / 3 = 12
 //        lx.min_rhombus_up();
