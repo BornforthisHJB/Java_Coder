@@ -39,11 +39,13 @@ public class demo {
 //        36 / 3 = 12
 //        lx.min_rhombus_up();
         demo.min_rhombus_up_and_down();
-        demo.min_rhombus_middle();
+        demo.min_rhombus_middle("*");
         demo.min_rhombus_up_and_down();
-        demo.min_rhombus_middle();
+        demo.min_rhombus_middle("~");
+        demo.min_rhombus_middle("|");// 正方形
+        demo.min_rhombus_middle("~");
         demo.min_rhombus_up_and_down();
-        demo.min_rhombus_middle();
+        demo.min_rhombus_middle("*");
         demo.min_rhombus_up_and_down();
 
     }
@@ -64,11 +66,11 @@ public class demo {
         System.out.println("");
     }
 
-    public static void min_rhombus_middle() {
+    public static void min_rhombus_middle(String fuhao) {
         // 小菱形 中
         for (int i = 0; i < 6; i++) {
             for (int j = 0; j < 5; j++) {
-                System.out.print("*");
+                System.out.print(fuhao);
             }
             System.out.print(" ");
         }
