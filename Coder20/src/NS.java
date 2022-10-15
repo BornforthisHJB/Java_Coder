@@ -34,6 +34,7 @@ public class NS {
                         System.out.println(IntDec_To_StringHex);
                         break;
                 }
+                break;
             case ("oct"):
                 int StringOct_To_IntDec = ns.OctToDec(Integer.parseInt(Opr_num));
                 switch (target) {
@@ -50,6 +51,7 @@ public class NS {
                         System.out.println(IntDec_To_StringHex);
                         break;
                 }
+                break;
             case ("hex"):
                 int StringHex_To_IntDec = ns.HexToDec(Opr_num);
                 switch (target) {
@@ -65,6 +67,7 @@ public class NS {
                         System.out.println(IntDec_To_StringOct);
                         break;
                 }
+                break;
         }
     }
 
