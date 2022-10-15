@@ -18,59 +18,79 @@ public class NS {
         String Opr_num = in.next();
         System.out.print("Enter the name of the number system you want to convert to: bin, or dec, or oct or hex: "); // 用户要转换的目标类型
         String target = in.next(); // 用户想要转换的目标类型
+        ns.switch_case(digital_system, target, Opr_num);
+
+    }
+
+    public void switch_case(String digital_system, String target, String Opr_num) {
         switch (digital_system) {
             case ("bin"):
-                int StringBinary_To_IntDec = ns.BinToDec(Opr_num);
+                int StringBinary_To_IntDec = BinToDec(Opr_num);
                 switch (target) {
                     case ("dec"):
                         System.out.println(StringBinary_To_IntDec);
                         break;
                     case ("oct"):
-                        String IntDec_To_StringOct = ns.DecToOct(StringBinary_To_IntDec);
+                        String IntDec_To_StringOct = DecToOct(StringBinary_To_IntDec);
                         System.out.println(IntDec_To_StringOct);
                         break;
                     case ("hex"):
-                        String IntDec_To_StringHex = ns.DecToHex(StringBinary_To_IntDec);
+                        String IntDec_To_StringHex = DecToHex(StringBinary_To_IntDec);
                         System.out.println(IntDec_To_StringHex);
                         break;
                 }
                 break;
             case ("oct"):
-                int StringOct_To_IntDec = ns.OctToDec(Integer.parseInt(Opr_num));
+                int StringOct_To_IntDec = OctToDec(Integer.parseInt(Opr_num));
                 switch (target) {
                     /* This is my code, oct to binary*/
                     case ("bin"):
-                        String IntDec_To_StringBin = ns.DecToBin(StringOct_To_IntDec);
+                        String IntDec_To_StringBin = DecToBin(StringOct_To_IntDec);
                         System.out.println(IntDec_To_StringBin);
                         break;
                     case ("dec"):
                         System.out.println(StringOct_To_IntDec);
                         break;
                     case ("hex"):
-                        String IntDec_To_StringHex = ns.DecToHex(StringOct_To_IntDec);
+                        String IntDec_To_StringHex = DecToHex(StringOct_To_IntDec);
                         System.out.println(IntDec_To_StringHex);
                         break;
                 }
                 break;
             case ("hex"):
-                int StringHex_To_IntDec = ns.HexToDec(Opr_num);
+                int StringHex_To_IntDec = HexToDec(Opr_num);
                 switch (target) {
                     case ("bin"):
-                        String IntDec_To_StringBin = ns.DecToBin(StringHex_To_IntDec);
+                        String IntDec_To_StringBin = DecToBin(StringHex_To_IntDec);
                         System.out.println(IntDec_To_StringBin);
                         break;
                     case ("dec"):
                         System.out.println(StringHex_To_IntDec);
                         break;
                     case ("oct"):
-                        String IntDec_To_StringOct = ns.DecToOct(StringHex_To_IntDec);
+                        String IntDec_To_StringOct = DecToOct(StringHex_To_IntDec);
                         System.out.println(IntDec_To_StringOct);
+                        break;
+                }
+                break;
+            case ("dec"):
+                switch (target) {
+                    case ("bin"):
+                        String StringDec_To_StringBin = DecToBin(Integer.parseInt(Opr_num));
+                        System.out.println(StringDec_To_StringBin);
+                        break;
+                    case ("oct"):
+                        String StringDec_To_StringOct = DecToOct(Integer.parseInt(Opr_num));
+                        System.out.println(StringDec_To_StringOct);
+                        break;
+                    case ("hex"):
+                        String StringDec_To_StringHex = DecToHex(Integer.parseInt(Opr_num));
+                        System.out.println(StringDec_To_StringHex);
                         break;
                 }
                 break;
         }
     }
-
 
     public String DecToBin(int intDec) {
         /* 十进制转二进制，利用除2取余*/
