@@ -10,7 +10,7 @@ import java.util.Scanner;
 
 public class NS {
     public static void main(String[] args) {
-        NS ns = new NS();  // 类的是例化
+//        NS ns = new NS();  // 类的是例化
         Scanner in = new Scanner(System.in);  // 声明一个输入
         System.out.print("Enter the name of the number system to convert from: bin, or dec, or oct or hex:");
         String digital_system = in.next(); // 数字系统「用户描述用户输入的类型」
@@ -18,57 +18,58 @@ public class NS {
         String Opr_num = in.next();
         System.out.print("Enter the name of the number system you want to convert to: bin, or dec, or oct or hex: "); // 用户要转换的目标类型
         String target = in.next(); // 用户想要转换的目标类型
-        ns.switch_case(digital_system, target, Opr_num);
+        switch_case(digital_system, target, Opr_num);
 
     }
 
-    public void switch_case(String digital_system, String target, String Opr_num) {
+    public static void switch_case(String digital_system, String target, String Opr_num) {
+        NS sc = new NS();
         switch (digital_system) {
             case ("bin"):
-                int StringBinary_To_IntDec = BinToDec(Opr_num);
+                int StringBinary_To_IntDec = sc.BinToDec(Opr_num);
                 switch (target) {
                     case ("dec"):
                         System.out.println(StringBinary_To_IntDec);
                         break;
                     case ("oct"):
-                        String IntDec_To_StringOct = DecToOct(StringBinary_To_IntDec);
+                        String IntDec_To_StringOct = sc.DecToOct(StringBinary_To_IntDec);
                         System.out.println(IntDec_To_StringOct);
                         break;
                     case ("hex"):
-                        String IntDec_To_StringHex = DecToHex(StringBinary_To_IntDec);
+                        String IntDec_To_StringHex = sc.DecToHex(StringBinary_To_IntDec);
                         System.out.println(IntDec_To_StringHex);
                         break;
                 }
                 break;
             case ("oct"):
-                int StringOct_To_IntDec = OctToDec(Integer.parseInt(Opr_num));
+                int StringOct_To_IntDec = sc.OctToDec(Integer.parseInt(Opr_num));
                 switch (target) {
                     /* This is my code, oct to binary*/
                     case ("bin"):
-                        String IntDec_To_StringBin = DecToBin(StringOct_To_IntDec);
+                        String IntDec_To_StringBin = sc.DecToBin(StringOct_To_IntDec);
                         System.out.println(IntDec_To_StringBin);
                         break;
                     case ("dec"):
                         System.out.println(StringOct_To_IntDec);
                         break;
                     case ("hex"):
-                        String IntDec_To_StringHex = DecToHex(StringOct_To_IntDec);
+                        String IntDec_To_StringHex = sc.DecToHex(StringOct_To_IntDec);
                         System.out.println(IntDec_To_StringHex);
                         break;
                 }
                 break;
             case ("hex"):
-                int StringHex_To_IntDec = HexToDec(Opr_num);
+                int StringHex_To_IntDec = sc.HexToDec(Opr_num);
                 switch (target) {
                     case ("bin"):
-                        String IntDec_To_StringBin = DecToBin(StringHex_To_IntDec);
+                        String IntDec_To_StringBin = sc.DecToBin(StringHex_To_IntDec);
                         System.out.println(IntDec_To_StringBin);
                         break;
                     case ("dec"):
                         System.out.println(StringHex_To_IntDec);
                         break;
                     case ("oct"):
-                        String IntDec_To_StringOct = DecToOct(StringHex_To_IntDec);
+                        String IntDec_To_StringOct = sc.DecToOct(StringHex_To_IntDec);
                         System.out.println(IntDec_To_StringOct);
                         break;
                 }
@@ -76,15 +77,15 @@ public class NS {
             case ("dec"):
                 switch (target) {
                     case ("bin"):
-                        String StringDec_To_StringBin = DecToBin(Integer.parseInt(Opr_num));
+                        String StringDec_To_StringBin = sc.DecToBin(Integer.parseInt(Opr_num));
                         System.out.println(StringDec_To_StringBin);
                         break;
                     case ("oct"):
-                        String StringDec_To_StringOct = DecToOct(Integer.parseInt(Opr_num));
+                        String StringDec_To_StringOct = sc.DecToOct(Integer.parseInt(Opr_num));
                         System.out.println(StringDec_To_StringOct);
                         break;
                     case ("hex"):
-                        String StringDec_To_StringHex = DecToHex(Integer.parseInt(Opr_num));
+                        String StringDec_To_StringHex = sc.DecToHex(Integer.parseInt(Opr_num));
                         System.out.println(StringDec_To_StringHex);
                         break;
                 }

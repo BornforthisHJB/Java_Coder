@@ -1,3 +1,5 @@
+package src;
+
 public class MathCalc {
     public static void main(String[] args) {
 //        System.out.println("5+6dmwkdmwfwffoif[qofowmfwfowifom"); // 输出什么：

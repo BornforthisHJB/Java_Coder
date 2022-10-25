@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f5f5bc06-c461-4cef-8ccb-7d2e1f7c3442" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../Coder33/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Coder33/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Coder33/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Coder33/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Coder33/Coder33.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Coder33/out/production/Coder33/Merchandise.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Coder33/out/production/Coder33/ReferenceAndPrimaryDataType.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Coder33/src/Merchandise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Coder33/src/ReferenceAndPrimaryDataType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder05/Coder05/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder05/Coder05/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder05/Coder05/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder05/Coder05/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder05/Coder05/Coder05.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder05/Coder05/src/Baozi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder05/Coder05/src/FindDiv.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder05/Coder05/src/IfElaseNest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder05/Coder05/src/IncreaseDecrease.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder05/Coder05/src/demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coder08.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Coder08/CreateArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Coder08/SevenScore.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CalcDivBreakAndContinue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CreateArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Print26Charts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ScoreArrayMaxScore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SevenScore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/forloop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../liujiahui_hw/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../liujiahui_hw/.idea/libraries/commons_lang3_3_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../liujiahui_hw/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../liujiahui_hw/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../liujiahui_hw/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../liujiahui_hw/libs/commons-lang3-3.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../liujiahui_hw/libs/commons-text-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../liujiahui_hw/libs/opencsv-4.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../liujiahui_hw/liujiahui_hw.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../liujiahui_hw/src/Portfolio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../liujiahui_hw/src/Property.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../liujiahui_hw/src/PropertyViewer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../liujiahui_hw/src/PropertyViewerGUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../liujiahui_hw/src/airbnb-london.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../liujiahui_hw/src/test01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../曲祖延/Coder10/Coder10.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../曲祖延/Coder10/src/CalcDivBreak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../曲祖延/Coder10/src/CalcDivBreakAndContinue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../曲祖延/Coder10/src/CalcDivFor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../曲祖延/Coder10/src/Chart26.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../曲祖延/Coder10/src/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../曲祖延/Coder10/src/demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../曲祖延/Coder10/src/for_yufa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../曲祖延/leesson10/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../曲祖延/leesson10/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../曲祖延/leesson10/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../曲祖延/leesson10/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../曲祖延/leesson10/leesson10.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../曲祖延/leesson10/src/CodeBlock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../曲祖延/leesson10/src/demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Coder03/src/CompareOprt.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Coder03/src/CompareOprt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Coder03/src/MathCalc.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Coder03/src/MathCalc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Coder03/src/Variable.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Coder03/src/Variable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Coder20/out/production/Coder20/NS.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Coder20/out/production/Coder20/NS.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Coder20/src/NS.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Coder20/src/NS.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2GZduimc81Xlyvkzk536FN4nAMq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.CalcDivBreakAndContinue">
+    <configuration name="CalcDivBreakAndContinue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CalcDivBreakAndContinue" />
+      <module name="Coder08" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CreateArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CreateArray" />
+      <module name="Coder08" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Print26Charts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Print26Charts" />
+      <module name="Coder08" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="forloop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="forloop" />
+      <module name="Coder08" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CalcDivBreakAndContinue" />
+        <item itemvalue="Application.forloop" />
+        <item itemvalue="Application.Print26Charts" />
+        <item itemvalue="Application.CreateArray" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f5f5bc06-c461-4cef-8ccb-7d2e1f7c3442" name="Changes" comment="" />
+      <created>1666600265289</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666600265289</updated>
+      <workItem from="1666600266757" duration="8460000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
