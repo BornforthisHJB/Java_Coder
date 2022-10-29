@@ -5,73 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d7f8916a-5241-4e1f-a7dd-4e44d0609fae" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Coder33.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Coder33/Merchandise.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Coder33/ReferenceAndPrimaryDataType.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Merchandise.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReferenceAndPrimaryDataType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Student_Coder/liujiahui/Coder05/Coder05/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Student_Coder/liujiahui/Coder05/Coder05/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Student_Coder/liujiahui/Coder05/Coder05/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Student_Coder/liujiahui/Coder05/Coder05/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Student_Coder/liujiahui/Coder05/Coder05/Coder05.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Student_Coder/liujiahui/Coder05/Coder05/src/Baozi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Student_Coder/liujiahui/Coder05/Coder05/src/FindDiv.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Student_Coder/liujiahui/Coder05/Coder05/src/IfElaseNest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Student_Coder/liujiahui/Coder05/Coder05/src/IncreaseDecrease.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Student_Coder/liujiahui/Coder05/Coder05/src/demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Student_Coder/liujiahui/Coder08/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Student_Coder/liujiahui/Coder08/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Student_Coder/liujiahui/Coder08/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Student_Coder/liujiahui/Coder08/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Student_Coder/liujiahui/Coder08/Coder08.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Student_Coder/liujiahui/Coder08/out/production/Coder08/CreateArray.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Student_Coder/liujiahui/Coder08/out/production/Coder08/SevenScore.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Student_Coder/liujiahui/Coder08/src/CalcDivBreakAndContinue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Student_Coder/liujiahui/Coder08/src/CreateArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Student_Coder/liujiahui/Coder08/src/Print26Charts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Student_Coder/liujiahui/Coder08/src/ScoreArrayMaxScore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Student_Coder/liujiahui/Coder08/src/SevenScore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Student_Coder/liujiahui/Coder08/src/forloop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Student_Coder/liujiahui/liujiahui_hw/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Student_Coder/liujiahui/liujiahui_hw/.idea/libraries/commons_lang3_3_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Student_Coder/liujiahui/liujiahui_hw/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Student_Coder/liujiahui/liujiahui_hw/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Student_Coder/liujiahui/liujiahui_hw/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Student_Coder/liujiahui/liujiahui_hw/libs/commons-lang3-3.7.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Student_Coder/liujiahui/liujiahui_hw/libs/commons-text-1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Student_Coder/liujiahui/liujiahui_hw/libs/opencsv-4.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Student_Coder/liujiahui/liujiahui_hw/liujiahui_hw.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Student_Coder/liujiahui/liujiahui_hw/src/Portfolio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Student_Coder/liujiahui/liujiahui_hw/src/Property.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Student_Coder/liujiahui/liujiahui_hw/src/PropertyViewer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Student_Coder/liujiahui/liujiahui_hw/src/PropertyViewerGUI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Student_Coder/liujiahui/liujiahui_hw/src/airbnb-london.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Student_Coder/liujiahui/liujiahui_hw/src/test01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Student_Coder/曲祖延/Coder10/Coder10.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Student_Coder/曲祖延/Coder10/src/CalcDivBreak.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Student_Coder/曲祖延/Coder10/src/CalcDivBreakAndContinue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Student_Coder/曲祖延/Coder10/src/CalcDivFor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Student_Coder/曲祖延/Coder10/src/Chart26.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Student_Coder/曲祖延/Coder10/src/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Student_Coder/曲祖延/Coder10/src/demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Student_Coder/曲祖延/Coder10/src/for_yufa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Student_Coder/曲祖延/leesson10/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Student_Coder/曲祖延/leesson10/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Student_Coder/曲祖延/leesson10/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Student_Coder/曲祖延/leesson10/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Student_Coder/曲祖延/leesson10/leesson10.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Student_Coder/曲祖延/leesson10/src/CodeBlock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Student_Coder/曲祖延/leesson10/src/demo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Coder03/src/CompareOprt.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Coder03/src/CompareOprt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Coder03/src/MathCalc.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Coder03/src/MathCalc.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Coder03/src/Variable.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Coder03/src/Variable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Coder20/out/production/Coder20/NS.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Coder20/out/production/Coder20/NS.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Coder20/src/NS.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Coder20/src/NS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Student_Coder/02malin/Coder01/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Student_Coder/02malin/Coder01/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Student_Coder/02malin/Coder01/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Student_Coder/02malin/Coder01/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Student_Coder/02malin/Coder01/Coder01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Student_Coder/02malin/Coder01/out/production/Coder01/MathCalc.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Student_Coder/02malin/Coder01/src/MathCalc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Student_Coder/02malin/Coder01/src/Variable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Student_Coder/liujiahui/liujiahui_hw/src/demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Student_Coder/liujiahui/Coder08/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Student_Coder/liujiahui/Coder08/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Student_Coder/liujiahui/liujiahui_hw/out/production/liujiahui_hw/PropertyViewer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Student_Coder/liujiahui/liujiahui_hw/out/production/liujiahui_hw/PropertyViewer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Student_Coder/liujiahui/liujiahui_hw/out/production/liujiahui_hw/PropertyViewerGUI$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Student_Coder/liujiahui/liujiahui_hw/out/production/liujiahui_hw/PropertyViewerGUI$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Student_Coder/liujiahui/liujiahui_hw/out/production/liujiahui_hw/PropertyViewerGUI$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Student_Coder/liujiahui/liujiahui_hw/out/production/liujiahui_hw/PropertyViewerGUI$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Student_Coder/liujiahui/liujiahui_hw/out/production/liujiahui_hw/PropertyViewerGUI$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Student_Coder/liujiahui/liujiahui_hw/out/production/liujiahui_hw/PropertyViewerGUI$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Student_Coder/liujiahui/liujiahui_hw/out/production/liujiahui_hw/PropertyViewerGUI$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Student_Coder/liujiahui/liujiahui_hw/out/production/liujiahui_hw/PropertyViewerGUI$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Student_Coder/liujiahui/liujiahui_hw/out/production/liujiahui_hw/PropertyViewerGUI.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Student_Coder/liujiahui/liujiahui_hw/out/production/liujiahui_hw/PropertyViewerGUI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Student_Coder/liujiahui/liujiahui_hw/out/production/liujiahui_hw/test01.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Student_Coder/liujiahui/liujiahui_hw/out/production/liujiahui_hw/test01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Student_Coder/liujiahui/liujiahui_hw/src/PropertyViewer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Student_Coder/liujiahui/liujiahui_hw/src/PropertyViewer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Student_Coder/liujiahui/liujiahui_hw/src/PropertyViewerGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Student_Coder/liujiahui/liujiahui_hw/src/PropertyViewerGUI.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,17 +52,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="ReferenceAndPrimaryDataType" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ReferenceAndPrimaryDataType" />
@@ -133,6 +86,8 @@
       <option name="presentableId" value="Default" />
       <updated>1666541948539</updated>
       <workItem from="1666541949964" duration="7969000" />
+      <workItem from="1666693077780" duration="2000" />
+      <workItem from="1667026513620" duration="226000" />
     </task>
     <servers />
   </component>

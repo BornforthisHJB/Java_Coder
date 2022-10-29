@@ -134,6 +134,11 @@ public class PropertyViewerGUI
         viewer.toggleFavourite();     
     }
 
+    // 修改 -----------------
+    private void Statistics(){
+        viewer.Statistics();
+    }
+
     // ---- swing stuff to build the frame and all its components ----
     
     /**
@@ -220,6 +225,12 @@ public class PropertyViewerGUI
                                public void actionPerformed(ActionEvent e) { toggleFavouriteButton(); }
                            });
         toolbar.add(favouriteButton);
+        // 添加新代码----------
+        JButton View_Number = new JButton("查看次数");
+        View_Number.addActionListener(new ActionListener() {
+            public void actionPerformed(ActionEvent e) { Statistics(); }
+        });
+        toolbar.add(View_Number);
 
 
         // Add toolbar into panel with flow layout for spacing
