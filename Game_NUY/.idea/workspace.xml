@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7b659534-8bb4-4d20-8ab9-d590dc7cef42" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Coder35/src/Merchandise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder35/src/RefArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder36/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder36/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder36/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder36/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder36/Coder36.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder36/src/Merchandise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder36/src/RefAndNull.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder36/src/demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_NUY.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HangMan_ME.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hangman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hangman_Tester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/open_file.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/read_intern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/url_read.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/words_alpha.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Student_Coder/02malin/Coder02/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Student_Coder/02malin/Coder02/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Student_Coder/02malin/Coder02/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Student_Coder/02malin/Coder02/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Student_Coder/02malin/Coder02/Coder02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Student_Coder/02malin/Coder02/src/FloatCalc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Student_Coder/02malin/Coder02/src/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Student_Coder/02malin/Coder02/src/Variable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Student_Coder/02malin/Coder04/Coder04.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Student_Coder/02malin/Coder04/src/BooleanOprt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Student_Coder/02malin/Coder04/src/CompareOprt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Student_Coder/02malin/Coder04/src/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Student_Coder/02malin/Coder04/src/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Student_Coder/02malin/Coder05/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Student_Coder/02malin/Coder05/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Student_Coder/02malin/Coder05/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Student_Coder/02malin/Coder05/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Student_Coder/02malin/Coder05/Coder05.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Student_Coder/02malin/Coder05/src/BooleanOprt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Student_Coder/02malin/Coder05/src/ParentOprt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Student_Coder/02malin/Coder05/src/demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Student_Coder/02malin/Coder3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Student_Coder/02malin/Coder3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Student_Coder/02malin/Coder3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Student_Coder/02malin/Coder3/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Student_Coder/02malin/Coder3/Coder3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Student_Coder/02malin/Coder3/out/production/Coder3/BooleanAndChar.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Student_Coder/02malin/Coder3/out/production/Coder3/PrimaryTypes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Student_Coder/02malin/Coder3/src/BooleanAndChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Student_Coder/02malin/Coder3/src/Hangman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Student_Coder/02malin/Coder3/src/ModCalc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Student_Coder/02malin/Coder3/src/OprtNotChangeVariableValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Student_Coder/02malin/Coder3/src/PrimaryTypes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Student_Coder/02malin/Coder3/src/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Student_Coder/02malin/Coder3/src/demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Student_Coder/02malin/Coder3/src/demo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Student_Coder/02malin/Coder3/src/words_alpha.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Student_Coder/liujiahui/Coder009/Coder009.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Student_Coder/liujiahui/Coder009/src/BoolTetser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Student_Coder/liujiahui/Coder009/src/BooleanOprt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Student_Coder/liujiahui/Coder009/src/ParentOprt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Student_Coder/liujiahui/Coder06/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Student_Coder/liujiahui/Coder06/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Student_Coder/liujiahui/Coder06/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Student_Coder/liujiahui/Coder06/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Student_Coder/liujiahui/Coder06/Coder06.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Student_Coder/liujiahui/Coder06/src/AssignAndCalc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Student_Coder/liujiahui/Coder06/src/BitCalc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Student_Coder/liujiahui/Coder06/src/CompareOprt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Student_Coder/liujiahui/Coder06/src/IntegerDiv.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Student_Coder/liujiahui/Coder06/src/LiteralNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Student_Coder/liujiahui/Coder10/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Student_Coder/liujiahui/Coder10/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Student_Coder/liujiahui/Coder10/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Student_Coder/liujiahui/Coder10/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Student_Coder/liujiahui/Coder10/Coder10.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Student_Coder/liujiahui/Coder10/src/AssignFirst.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Student_Coder/liujiahui/Coder10/src/AutoConvert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Student_Coder/liujiahui/Coder10/src/BitCalc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Student_Coder/liujiahui/Coder10/src/LiteralNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Student_Coder/liujiahui/Coder10/src/bitcalc2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Student_Coder/liujiahui/Coder12/Coder12.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Student_Coder/liujiahui/Coder12/src/demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Student_Coder/曲祖延/HangManKAI/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Student_Coder/曲祖延/HangManKAI/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Student_Coder/曲祖延/HangManKAI/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Student_Coder/曲祖延/HangManKAI/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Student_Coder/曲祖延/HangManKAI/HangManKAI.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Student_Coder/曲祖延/HangManKAI/src/HangMan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Student_Coder/曲祖延/HangManKAI/src/animals.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Student_Coder/曲祖延/HangManKAI/src/demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Student_Coder/曲祖延/HangManKAI/src/demo.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Coder35/src/ArrayIsClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Coder35/src/ArrayIsClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Student_Coder/liujiahui/liujiahui_hw/out/production/liujiahui_hw/PropertyViewerGUI$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Student_Coder/liujiahui/liujiahui_hw/out/production/liujiahui_hw/PropertyViewerGUI$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Student_Coder/liujiahui/liujiahui_hw/out/production/liujiahui_hw/PropertyViewerGUI.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Student_Coder/liujiahui/liujiahui_hw/out/production/liujiahui_hw/PropertyViewerGUI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Student_Coder/liujiahui/liujiahui_hw/out/production/liujiahui_hw/test01.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Student_Coder/liujiahui/liujiahui_hw/out/production/liujiahui_hw/test01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Student_Coder/liujiahui/liujiahui_hw/src/PropertyViewer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Student_Coder/liujiahui/liujiahui_hw/src/PropertyViewer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Student_Coder/liujiahui/liujiahui_hw/src/test01.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Student_Coder/liujiahui/liujiahui_hw/src/test01.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2HRADkZNb7CaIhlfHKI7MkwKrVa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/huangjiabao/GitHub/SourceCode/Java_Coder/Game_NUY/src&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Hangman_Tester">
+    <configuration name="HangMan_ME" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HangMan_ME" />
+      <module name="Game_NUY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Hangman" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Hangman" />
+      <module name="Game_NUY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Hangman_Tester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Hangman_Tester" />
+      <module name="Game_NUY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="Game_NUY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="read_intern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="read_intern" />
+      <module name="Game_NUY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Hangman_Tester" />
+        <item itemvalue="Application.read_intern" />
+        <item itemvalue="Application.HangMan_ME" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Hangman" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7b659534-8bb4-4d20-8ab9-d590dc7cef42" name="Changes" comment="" />
+      <created>1668237406628</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668237406628</updated>
+      <workItem from="1668237407775" duration="30162000" />
+      <workItem from="1668355739777" duration="2570000" />
+      <workItem from="1668437411671" duration="2905000" />
+      <workItem from="1668529596058" duration="775000" />
+      <workItem from="1668653150085" duration="3534000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

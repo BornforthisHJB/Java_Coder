@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Trap
+comment0.text=\n\ @ClassName\:\ Trap\n\ @Description\:\ TODO\n\ @Author\:\ AndersonHJB\n\ @date\:\ 2022/11/29\ 20\:00\n\ @Version\:\ V1.0\n\ @Blog\:\ https\://bornforthis.cn\n
+comment1.params=name\ strengthDown\ lifeDown
+comment1.target=Trap(java.lang.String,\ int,\ int)
+comment2.params=
+comment2.target=int\ getStrengthDown()
+comment3.params=
+comment3.target=int\ getLifeDown()
+comment4.params=
+comment4.target=java.lang.String\ getName()
+numComments=5

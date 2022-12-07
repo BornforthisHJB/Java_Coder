@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Item
+comment0.text=\n\ @ClassName\:\ Item\n\ @Description\:\ TODO\n\ @Author\:\ AndersonHJB\n\ @date\:\ 2022/11/29\ 16\:34\n\ @Version\:\ V1.0\n\ @Blog\:\ https\://bornforthis.cn\n
+comment1.params=name\ weight\ life
+comment1.target=Item(java.lang.String,\ int,\ int)
+comment2.params=
+comment2.target=int\ getWeight()
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment5.params=
+comment5.target=int\ getLife()
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7

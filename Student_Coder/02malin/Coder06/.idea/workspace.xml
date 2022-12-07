@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2f81865e-6832-424f-90ef-8d4397fb9bdc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../Coder35/src/Merchandise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Coder35/src/RefArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Coder36/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Coder36/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Coder36/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Coder36/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Coder36/Coder36.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Coder36/src/Merchandise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Coder36/src/RefAndNull.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Coder37/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Coder37/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Coder37/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Coder37/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Coder37/Coder37.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Coder37/src/CPU.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Coder37/src/Mainboard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Coder37/src/Memory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Coder37/src/MyPhoneMaker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Coder37/src/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Coder37/src/PhoneMaker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Coder37/src/Screen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Coder37/src/Storage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Coder38/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Coder38/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Coder38/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Coder38/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Coder38/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Coder38/Coder38.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Coder38/out/production/Coder38/com/phone/MyPhoneMaker.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Coder38/out/production/Coder38/com/phone/Phone.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Coder38/out/production/Coder38/com/phone/PhoneMaker.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Coder38/out/production/Coder38/com/phone/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Coder38/out/production/Coder38/com/phone/parts/CPU.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Coder38/out/production/Coder38/com/phone/parts/Mainboard.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Coder38/out/production/Coder38/com/phone/parts/Memory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Coder38/out/production/Coder38/com/phone/parts/Screen.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Coder38/out/production/Coder38/com/phone/parts/Storage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Coder38/src/Classwork2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Coder38/src/com/phone/MyPhoneMaker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Coder38/src/com/phone/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Coder38/src/com/phone/PhoneMaker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Coder38/src/com/phone/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Coder38/src/com/phone/parts/CPU.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Coder38/src/com/phone/parts/Mainboard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Coder38/src/com/phone/parts/Memory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Coder38/src/com/phone/parts/Screen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Coder38/src/com/phone/parts/Storage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Coder38/src/com/phone/parts/TestUseMainboard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Game_NUY/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Game_NUY/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Game_NUY/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Game_NUY/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Game_NUY/Game_NUY.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Game_NUY/src/HangMan_ME.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Game_NUY/src/Hangman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Game_NUY/src/Hangman_Tester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Game_NUY/src/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Game_NUY/src/demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Game_NUY/src/open_file.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Game_NUY/src/read_intern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Game_NUY/src/url_read.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Game_NUY/src/words_alpha.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder02/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder02/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder02/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder02/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder02/Coder02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder02/src/FloatCalc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder02/src/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder02/src/Variable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder04/Coder04.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder04/src/BooleanOprt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder04/src/CompareOprt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder04/src/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder04/src/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder05/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder05/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder05/Coder05.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder05/src/BooleanOprt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder05/src/ParentOprt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder05/src/demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coder06.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Coder06/AutoConvert.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Coder06/demo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AutoConvert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CalcValueLoss.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ComplexChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ComplexCharInString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForceConvert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForceConvertValueLoss.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Print26Chars.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StingConcat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringVariable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder3/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder3/Coder3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder3/out/production/Coder3/BooleanAndChar.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder3/out/production/Coder3/PrimaryTypes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder3/src/BooleanAndChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder3/src/Hangman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder3/src/ModCalc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder3/src/OprtNotChangeVariableValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder3/src/PrimaryTypes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder3/src/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder3/src/demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder3/src/demo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder3/src/words_alpha.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder6/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder6/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder6/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder6/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder6/Coder6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder6/out/production/Coder6/demo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder6/src/AssignFirst.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder6/src/AutoConvert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder6/src/BitOprtNotChangeVariableValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder6/src/BitOprtUsage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder6/src/demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../liujiahui/Coder009/Coder009.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../liujiahui/Coder009/src/BoolTetser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../liujiahui/Coder009/src/BooleanOprt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../liujiahui/Coder009/src/ParentOprt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../liujiahui/Coder06/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../liujiahui/Coder06/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../liujiahui/Coder06/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../liujiahui/Coder06/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../liujiahui/Coder06/Coder06.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../liujiahui/Coder06/src/AssignAndCalc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../liujiahui/Coder06/src/BitCalc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../liujiahui/Coder06/src/CompareOprt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../liujiahui/Coder06/src/IntegerDiv.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../liujiahui/Coder06/src/LiteralNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../liujiahui/Coder10/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../liujiahui/Coder10/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../liujiahui/Coder10/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../liujiahui/Coder10/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../liujiahui/Coder10/Coder10.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../liujiahui/Coder10/src/AssignFirst.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../liujiahui/Coder10/src/AutoConvert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../liujiahui/Coder10/src/BitCalc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../liujiahui/Coder10/src/LiteralNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../liujiahui/Coder10/src/bitcalc2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../liujiahui/Coder11/Coder11.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../liujiahui/Coder11/out/production/Coder11/demo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../liujiahui/Coder11/src/demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../liujiahui/Coder12/Coder12.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../liujiahui/Coder12/src/demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../liujiahui/HW02/HW02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../liujiahui/HW02/out/production/HW02/Command.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../liujiahui/HW02/out/production/HW02/Command.ctxt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../liujiahui/HW02/out/production/HW02/CommandWords.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../liujiahui/HW02/out/production/HW02/CommandWords.ctxt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../liujiahui/HW02/out/production/HW02/Game.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../liujiahui/HW02/out/production/HW02/Game.ctxt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../liujiahui/HW02/out/production/HW02/Parser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../liujiahui/HW02/out/production/HW02/Parser.ctxt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../liujiahui/HW02/out/production/HW02/README.TXT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../liujiahui/HW02/out/production/HW02/Room.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../liujiahui/HW02/out/production/HW02/Room.ctxt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../liujiahui/HW02/out/production/HW02/package.bluej" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../liujiahui/HW02/out/production/HW02/run.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../liujiahui/HW02/src/Command.ctxt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../liujiahui/HW02/src/Command.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../liujiahui/HW02/src/CommandWords.ctxt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../liujiahui/HW02/src/CommandWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../liujiahui/HW02/src/Game.ctxt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../liujiahui/HW02/src/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../liujiahui/HW02/src/Parser.ctxt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../liujiahui/HW02/src/Parser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../liujiahui/HW02/src/README.TXT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../liujiahui/HW02/src/Room.ctxt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../liujiahui/HW02/src/Room.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../liujiahui/HW02/src/package.bluej" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../liujiahui/HW02/src/run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../liujiahui/HW2-1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../liujiahui/HW2-1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../liujiahui/HW2-1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../liujiahui/HW2-1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../liujiahui/HW2-1/HW2-1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../liujiahui/HW2-1/out/production/HW2-1/Command.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../liujiahui/HW2-1/out/production/HW2-1/Command.ctxt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../liujiahui/HW2-1/out/production/HW2-1/CommandWords.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../liujiahui/HW2-1/out/production/HW2-1/CommandWords.ctxt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../liujiahui/HW2-1/out/production/HW2-1/Game.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../liujiahui/HW2-1/out/production/HW2-1/Game.ctxt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../liujiahui/HW2-1/out/production/HW2-1/Parser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../liujiahui/HW2-1/out/production/HW2-1/Parser.ctxt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../liujiahui/HW2-1/out/production/HW2-1/README.TXT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../liujiahui/HW2-1/out/production/HW2-1/Room.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../liujiahui/HW2-1/out/production/HW2-1/Room.ctxt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../liujiahui/HW2-1/out/production/HW2-1/package.bluej" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../liujiahui/HW2-1/out/production/HW2-1/run.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../liujiahui/HW2-1/src/Command.ctxt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../liujiahui/HW2-1/src/Command.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../liujiahui/HW2-1/src/CommandWords.ctxt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../liujiahui/HW2-1/src/CommandWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../liujiahui/HW2-1/src/Game.ctxt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../liujiahui/HW2-1/src/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../liujiahui/HW2-1/src/Parser.ctxt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../liujiahui/HW2-1/src/Parser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../liujiahui/HW2-1/src/README.TXT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../liujiahui/HW2-1/src/Room.ctxt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../liujiahui/HW2-1/src/Room.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../liujiahui/HW2-1/src/package.bluej" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../liujiahui/HW2-1/src/run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../liujiahui/World_ofZu/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../liujiahui/World_ofZu/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../liujiahui/World_ofZu/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../liujiahui/World_ofZu/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../liujiahui/World_ofZu/World_ofZu.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../liujiahui/World_ofZu/out/production/World_ofZu/Character.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../liujiahui/World_ofZu/out/production/World_ofZu/Command.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../liujiahui/World_ofZu/out/production/World_ofZu/CommandWords.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../liujiahui/World_ofZu/out/production/World_ofZu/Conversation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../liujiahui/World_ofZu/out/production/World_ofZu/Game.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../liujiahui/World_ofZu/out/production/World_ofZu/Item.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../liujiahui/World_ofZu/out/production/World_ofZu/Parser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../liujiahui/World_ofZu/out/production/World_ofZu/Player.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../liujiahui/World_ofZu/out/production/World_ofZu/Room.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../liujiahui/World_ofZu/out/production/World_ofZu/XMLParser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../liujiahui/World_ofZu/src/Character.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../liujiahui/World_ofZu/src/Command.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../liujiahui/World_ofZu/src/CommandWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../liujiahui/World_ofZu/src/Conversation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../liujiahui/World_ofZu/src/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../liujiahui/World_ofZu/src/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../liujiahui/World_ofZu/src/Parser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../liujiahui/World_ofZu/src/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../liujiahui/World_ofZu/src/Room.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../liujiahui/World_ofZu/src/XMLParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../曲祖延/Coder09/Coder09.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../曲祖延/Coder09/src/demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../曲祖延/Coder11/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../曲祖延/Coder11/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../曲祖延/Coder11/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../曲祖延/Coder11/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../曲祖延/Coder11/Coder11.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../曲祖延/Coder11/out/production/Coder11/demo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../曲祖延/Coder11/src/ForTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../曲祖延/Coder11/src/demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../曲祖延/HangManKAI/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../曲祖延/HangManKAI/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../曲祖延/HangManKAI/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../曲祖延/HangManKAI/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../曲祖延/HangManKAI/HangManKAI.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../曲祖延/HangManKAI/src/HangMan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../曲祖延/HangManKAI/src/animals.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../曲祖延/HangManKAI/src/demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../曲祖延/HangManKAI/src/demo.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Coder35/src/ArrayIsClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Coder35/src/ArrayIsClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../liujiahui/liujiahui_hw/out/production/liujiahui_hw/PropertyViewerGUI$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../liujiahui/liujiahui_hw/out/production/liujiahui_hw/PropertyViewerGUI$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../liujiahui/liujiahui_hw/out/production/liujiahui_hw/PropertyViewerGUI.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../liujiahui/liujiahui_hw/out/production/liujiahui_hw/PropertyViewerGUI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../liujiahui/liujiahui_hw/out/production/liujiahui_hw/test01.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../liujiahui/liujiahui_hw/out/production/liujiahui_hw/test01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../liujiahui/liujiahui_hw/src/PropertyViewer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../liujiahui/liujiahui_hw/src/PropertyViewer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../liujiahui/liujiahui_hw/src/test01.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../liujiahui/liujiahui_hw/src/test01.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2I6rE7DED9emaXCMZddcnh26SDq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Print26Chars">
+    <configuration name="ComplexChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ComplexChar" />
+      <module name="Coder06" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Print26Chars" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Print26Chars" />
+      <module name="Coder06" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StingConcat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StingConcat" />
+      <module name="Coder06" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringVariable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringVariable" />
+      <module name="Coder06" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="demo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo2" />
+      <module name="Coder06" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Print26Chars" />
+        <item itemvalue="Application.demo2" />
+        <item itemvalue="Application.StringVariable" />
+        <item itemvalue="Application.StingConcat" />
+        <item itemvalue="Application.ComplexChar" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2f81865e-6832-424f-90ef-8d4397fb9bdc" name="Changes" comment="" />
+      <created>1669512760795</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669512760795</updated>
+      <workItem from="1669512761942" duration="12560000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

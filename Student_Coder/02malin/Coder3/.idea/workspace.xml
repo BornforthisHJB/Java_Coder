@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="39287234-7e6c-47c2-a862-917a0e443b35" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../Coder35/src/Merchandise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Coder35/src/RefArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Coder36/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Coder36/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Coder36/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Coder36/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Coder36/Coder36.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Coder36/src/Merchandise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Coder36/src/RefAndNull.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Coder36/src/demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Game_NUY/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Game_NUY/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Game_NUY/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Game_NUY/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Game_NUY/Game_NUY.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Game_NUY/src/Hangman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Game_NUY/src/demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Game_NUY/src/words_alpha.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder02/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder02/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder02/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder02/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder02/Coder02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder02/src/FloatCalc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder02/src/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder02/src/Variable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder04/Coder04.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder04/src/BooleanOprt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder04/src/CompareOprt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder04/src/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder04/src/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coder3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Coder3/BooleanAndChar.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Coder3/PrimaryTypes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BooleanAndChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hangman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ModCalc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OprtNotChangeVariableValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PrimaryTypes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/words_alpha.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../liujiahui/Coder009/Coder009.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../liujiahui/Coder009/src/BoolTetser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../liujiahui/Coder009/src/BooleanOprt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../liujiahui/Coder009/src/ParentOprt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../liujiahui/Coder10/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../liujiahui/Coder10/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../liujiahui/Coder10/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../liujiahui/Coder10/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../liujiahui/Coder10/Coder10.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../liujiahui/Coder10/src/AssignFirst.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../liujiahui/Coder10/src/AutoConvert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../liujiahui/Coder10/src/BitCalc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../liujiahui/Coder10/src/LiteralNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../liujiahui/Coder10/src/bitcalc2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Coder35/src/ArrayIsClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Coder35/src/ArrayIsClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../liujiahui/liujiahui_hw/out/production/liujiahui_hw/PropertyViewerGUI$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../liujiahui/liujiahui_hw/out/production/liujiahui_hw/PropertyViewerGUI$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../liujiahui/liujiahui_hw/out/production/liujiahui_hw/PropertyViewerGUI.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../liujiahui/liujiahui_hw/out/production/liujiahui_hw/PropertyViewerGUI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../liujiahui/liujiahui_hw/out/production/liujiahui_hw/test01.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../liujiahui/liujiahui_hw/out/production/liujiahui_hw/test01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../liujiahui/liujiahui_hw/src/PropertyViewer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../liujiahui/liujiahui_hw/src/PropertyViewer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../liujiahui/liujiahui_hw/src/test01.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../liujiahui/liujiahui_hw/src/test01.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2H8CJ19O8ctYFS8Gued2uLaJQXP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/huangjiabao/GitHub/SourceCode/Java_Coder/Student_Coder/02malin/Coder3/src&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.demo2">
+    <configuration name="Hangman" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Hangman" />
+      <module name="Coder3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ModCalc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ModCalc" />
+      <module name="Coder3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OprtNotChangeVariableValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OprtNotChangeVariableValue" />
+      <module name="Coder3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tester" />
+      <module name="Coder3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="demo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo2" />
+      <module name="Coder3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.demo2" />
+        <item itemvalue="Application.Tester" />
+        <item itemvalue="Application.Hangman" />
+        <item itemvalue="Application.ModCalc" />
+        <item itemvalue="Application.OprtNotChangeVariableValue" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="39287234-7e6c-47c2-a862-917a0e443b35" name="Changes" comment="" />
+      <created>1667657249002</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667657249002</updated>
+      <workItem from="1667657250227" duration="4589000" />
+      <workItem from="1667714561004" duration="562000" />
+      <workItem from="1667815604450" duration="4222000" />
+      <workItem from="1667876405099" duration="2723000" />
+      <workItem from="1668155179331" duration="4814000" />
+      <workItem from="1668223763217" duration="2803000" />
+      <workItem from="1668237492004" duration="3000" />
+      <workItem from="1668237503955" duration="8000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

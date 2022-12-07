@@ -130,6 +130,8 @@ public class PropertyViewer {
     }
 
     public void Statistics() {
+//        事件
+//        事件驱动
         averagePropertyPrice();
         JFrame frame = new JFrame("Statistics");
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
