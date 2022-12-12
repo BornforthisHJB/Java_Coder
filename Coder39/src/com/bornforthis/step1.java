@@ -4,14 +4,14 @@ import com.bornforthis.supermarket.LittleSuperMarket;
 import com.bornforthis.supermarket.Merchandise;
 
 /**
- * @ClassName: RunLittleSupperMarketAppMain3
+ * @ClassName: step1
  * @Description: TODO
  * @Author: AndersonHJB
- * @date: 2022/12/4 12:46
+ * @date: 2022/12/10 14:57
  * @Version: V1.0
  * @Blog: https://bornforthis.cn
  */
-public class RunLittleSupperMarketAppMain3 {
+public class step1 {
     public static void main(String[] args) {
         // 实例化我们的小超市
         LittleSuperMarket littleSuperMarket = new LittleSuperMarket();  // 实例化我们的超市，创建一个具体的超市
@@ -24,27 +24,25 @@ public class RunLittleSupperMarketAppMain3 {
         /*
          * 两百个商品，意味着：Merchandise 类型数组，元素共有 200 个
          * */
-        // 商品列表
-        Merchandise[] all = littleSuperMarket.merchandises;  // 定义 all 数组
-        /*就是 Python 中的
-        lst = [1, 2, 3, 4]
-        all = lst
-        为了方便操作，不然太长*/
 //        System.out.println(all == littleSuperMarket.merchandises); // 判断是否是同一个，true 为同一个物理地址
 
-        for (int i = 0; i < all.length; i++) {
-//            all[i] = new Merchandise();
-            Merchandise m = new Merchandise();
-            m.count = 200;
-            m.id = "ID" + i;
-            m.name = "商品" + i;
-            m.purchasePrice = Math.random() * 200;
-            m.soldPrice = (1 + Math.random()) * 200;
-            all[i] = m;
+        for (int i = 0; i < littleSuperMarket.merchandises.length; i++) {
+            littleSuperMarket.merchandises[i] = new Merchandise();
         }
 //        System.out.println(all);
-        for (int i = 0; i < all.length; i++) {
-            System.out.println(all[i].name);
+        for (int i = 0; i < littleSuperMarket.merchandises.length; i++) {
+            littleSuperMarket.merchandises[i].count = 200;
+            littleSuperMarket.merchandises[i].id = "ID" + i;
+            littleSuperMarket.merchandises[i].name = "商品" + i;
+            littleSuperMarket.merchandises[i].purchasePrice = Math.random() * 200;
+            littleSuperMarket.merchandises[i].soldPrice = (1 + Math.random()) * 200;
+//            System.out.println(Math.random()*200);
+        }
+        // 输出 name 查看是否商品添加成功
+        for (int i = 0; i < littleSuperMarket.merchandises.length; i++) {
+            System.out.println(littleSuperMarket.merchandises[i].name);;
         }
     }
+
+
 }

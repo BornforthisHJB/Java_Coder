@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3892e47b-5515-49ed-aeec-a5b2c35cb7fb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/MineSweeper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/扫雷.java" afterDir="false" />
+    <list default="true" id="95fcb43e-550f-4a85-a81c-8c939958d56e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../Coder39/src/com/bornforthis/step1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coder08.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IfElseNest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder7/src/MineSweeper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder7/src/扫雷.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../liujiahui/Coder15/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../liujiahui/Coder15/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../liujiahui/Coder15/.idea/vcs.xml" afterDir="false" />
@@ -12,8 +19,8 @@
       <change afterPath="$PROJECT_DIR$/../../liujiahui/Coder15/out/production/Coder15/StingConcat.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../liujiahui/Coder15/src/StingConcat.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../Coder39/src/com/bornforthis/RunLittleSupperMarketAppMain3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Coder39/src/com/bornforthis/RunLittleSupperMarketAppMain3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ifelse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ifelse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Coder7/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Coder7/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Coder7/src/ifelse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Coder7/src/ifelse.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +40,7 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2IW0eQi2edkSW2tSHdXQcqnbIGx" />
+  <component name="ProjectId" id="2InCER8PVbwOOQpO9wM7JnzcIsz" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -43,68 +50,21 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ifelse">
-    <configuration name="扫雷" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="扫雷" />
-      <module name="Coder7" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FindDiv" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FindDiv" />
-      <module name="Coder7" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MineSweeper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MineSweeper" />
-      <module name="Coder7" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Print26Chars2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Print26Chars2" />
-      <module name="Coder7" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ifelse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ifelse" />
-      <module name="Coder7" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.ifelse" />
-        <item itemvalue="Application.扫雷" />
-        <item itemvalue="Application.MineSweeper" />
-        <item itemvalue="Application.FindDiv" />
-        <item itemvalue="Application.Print26Chars2" />
-      </list>
-    </recent_temporary>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="3892e47b-5515-49ed-aeec-a5b2c35cb7fb" name="Changes" comment="" />
-      <created>1670282128875</created>
+      <changelist id="95fcb43e-550f-4a85-a81c-8c939958d56e" name="Changes" comment="" />
+      <created>1670807850772</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1670282128875</updated>
-      <workItem from="1670282131162" duration="16572000" />
+      <updated>1670807850772</updated>
+      <workItem from="1670807851887" duration="910000" />
     </task>
     <servers />
   </component>
@@ -121,8 +81,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
