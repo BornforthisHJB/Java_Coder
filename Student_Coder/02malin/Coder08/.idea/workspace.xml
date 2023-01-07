@@ -1,9 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="95fcb43e-550f-4a85-a81c-8c939958d56e" name="Changes" comment="IfElseNestSimple">
+    <list default="true" id="95fcb43e-550f-4a85-a81c-8c939958d56e" name="Changes" comment="简化">
+      <change afterPath="$PROJECT_DIR$/../../../Coder39/src/com/bornforthis/step2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Coder08/IfElseNest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Coder08/IfElseNestSimple.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Coder08/forloop.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CalcDivBreak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demo/Board.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demo/Location.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demo/Mine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demo/MinePlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demo/gameLauncher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/forloop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/Board.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/Mine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/gameLauncher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/one/Board.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/one/Location.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/one/Mine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/one/MinePlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/one/gameLauncher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Coder39/out/production/Coder39/com/bornforthis/step1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Coder39/out/production/Coder39/com/bornforthis/step1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Coder39/src/com/bornforthis/step1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Coder39/src/com/bornforthis/step1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IfElseNestSimple.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IfElseNestSimple.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,9 +56,73 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false"
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/huangjiabao/GitHub/SourceCode/Java_Coder/Student_Coder/02malin/Coder08/src/demo"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/demo" />
+      <recent name="$PROJECT_DIR$/src/one" />
+      <recent name="$PROJECT_DIR$/src/lib" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.demo.gameLauncher">
+    <configuration name="demo.gameLauncher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo.gameLauncher" />
+      <module name="Coder08" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="forloop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="forloop" />
+      <module name="Coder08" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gameLauncher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lib.gameLauncher" />
+      <module name="Coder08" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lib.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="one.gameLauncher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="one.gameLauncher" />
+      <module name="Coder08" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="one.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.demo.gameLauncher" />
+        <item itemvalue="Application.one.gameLauncher" />
+        <item itemvalue="Application.gameLauncher" />
+        <item itemvalue="Application.forloop" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -47,7 +131,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1670807850772</updated>
-      <workItem from="1670807851887" duration="1446000" />
+      <workItem from="1670807851887" duration="14507000" />
     </task>
     <task id="LOCAL-00001" summary="IfElseNestSimple">
       <created>1670808844677</created>
@@ -56,7 +140,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670808844677</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="简化">
+      <created>1670809664966</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1670809664966</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -75,6 +166,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="IfElseNestSimple" />
-    <option name="LAST_COMMIT_MESSAGE" value="IfElseNestSimple" />
+    <MESSAGE value="简化" />
+    <option name="LAST_COMMIT_MESSAGE" value="简化" />
   </component>
 </project>

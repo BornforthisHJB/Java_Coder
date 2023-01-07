@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fd30fa38-fcd6-45e9-9bf9-5c19ac5ada0d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../Coder39/src/com/bornforthis/step2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Coder39/src/test/test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder08/out/production/Coder08/IfElseNest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder08/out/production/Coder08/IfElseNestSimple.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder08/out/production/Coder08/forloop.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder08/src/CalcDivBreak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder08/src/demo/Board.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder08/src/demo/Location.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder08/src/demo/Mine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder08/src/demo/MinePlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder08/src/demo/gameLauncher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder08/src/forloop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder08/src/lib/Board.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder08/src/lib/Mine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder08/src/lib/gameLauncher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder08/src/one/Board.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder08/src/one/Location.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder08/src/one/Mine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder08/src/one/MinePlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder08/src/one/gameLauncher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder09/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder09/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder09/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder09/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder09/Coder09.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder09/src/CodeBlock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder09/src/demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder09/src/demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder10/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder10/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder10/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder10/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder10/Coder10.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder10/out/production/Coder10/Diamond.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder10/src/Diamond.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder10/src/demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder10/src/rhombus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coder19.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Coder19/demo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FInd26.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IncreaseDecrease.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Print26Char.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../曲祖延/Coder14/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../曲祖延/Coder14/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../曲祖延/Coder14/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../曲祖延/Coder14/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../曲祖延/Coder14/Coder14.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../曲祖延/Coder14/src/DoWhileExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../曲祖延/Coder14/src/IfElseNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../曲祖延/Coder14/src/PrintChars.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Coder39/out/production/Coder39/com/bornforthis/step1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Coder39/out/production/Coder39/com/bornforthis/step1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Coder39/src/com/bornforthis/step1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Coder39/src/com/bornforthis/step1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Coder08/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Coder08/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Jsl0TGccv9kxOnNRUKPlBic46o" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.FInd26">
+    <configuration name="FInd26" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FInd26" />
+      <module name="Coder19" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Print26Char" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Print26Char" />
+      <module name="Coder19" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo" />
+      <module name="Coder19" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FInd26" />
+        <item itemvalue="Application.Print26Char" />
+        <item itemvalue="Application.demo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fd30fa38-fcd6-45e9-9bf9-5c19ac5ada0d" name="Changes" comment="" />
+      <created>1672874453747</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1672874453747</updated>
+      <workItem from="1672874455037" duration="4939000" />
+      <workItem from="1672962047254" duration="1469000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

@@ -40,7 +40,8 @@ public class step1 {
         }
         // 输出 name 查看是否商品添加成功
         for (int i = 0; i < littleSuperMarket.merchandises.length; i++) {
-            System.out.println(littleSuperMarket.merchandises[i].name);;
+            System.out.println(littleSuperMarket.merchandises[i].name);
+            ;
         }
     }
 

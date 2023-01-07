@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="32a6d83b-c0b2-41bd-8faf-30b8bb7c5306" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../Coder39/src/com/bornforthis/step2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder08/out/production/Coder08/IfElseNest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder08/out/production/Coder08/IfElseNestSimple.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder08/out/production/Coder08/forloop.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder08/src/CalcDivBreak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder08/src/demo/Board.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder08/src/demo/Location.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder08/src/demo/Mine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder08/src/demo/MinePlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder08/src/demo/gameLauncher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder08/src/forloop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder08/src/lib/Board.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder08/src/lib/Mine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder08/src/lib/gameLauncher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder08/src/one/Board.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder08/src/one/Location.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder08/src/one/Mine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder08/src/one/MinePlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder08/src/one/gameLauncher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coder09.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeBlock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Coder39/out/production/Coder39/com/bornforthis/step1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Coder39/out/production/Coder39/com/bornforthis/step1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Coder39/src/com/bornforthis/step1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Coder39/src/com/bornforthis/step1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Coder08/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Coder08/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2IvZVFenww4vnONaVnZQ2sBgTRv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.CodeBlock">
+    <configuration name="CodeBlock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CodeBlock" />
+      <module name="Coder09" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo" />
+      <module name="Coder09" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo1" />
+      <module name="Coder09" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CodeBlock" />
+        <item itemvalue="Application.demo1" />
+        <item itemvalue="Application.demo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="32a6d83b-c0b2-41bd-8faf-30b8bb7c5306" name="Changes" comment="" />
+      <created>1671064040040</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1671064040040</updated>
+      <workItem from="1671064041208" duration="3334000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
