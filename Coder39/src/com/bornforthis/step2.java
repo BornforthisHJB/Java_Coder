@@ -33,10 +33,10 @@ public class step2 {
         for (int i = 0; i < all.length; i++) {
             Merchandise m = new Merchandise();
             m.count = 200;
-            m.id = "ID" + i;
             m.name = "商品" + i;
             m.purchasePrice = Math.random() * 200;  //  进货价格
             m.soldPrice = (1 + Math.random()) * 200;  // 销售价格
+            m.id = "ID" + i;
 
             all[i] = m;
         }

@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="49898ed7-47b2-489c-95c9-a51359dfb585" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../Coder40/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Coder40/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Coder40/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Coder40/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Coder40/Coder40.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Coder40/src/Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Coder40/src/com/bornforthis/supermarket/Merchandise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Coder40/src/com/bornforthis/supermarket/MerchandiseDescAppMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Coder40/src/com/bornforthis/supermarket/MerchandiseV2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Coder40/src/com/bornforthis/supermarket/MerchandiseV2DescAppMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Coder41/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Coder41/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Coder41/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Coder41/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Coder41/Coder41.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Coder41/src/com/bornforthis/RunLittleSupperMarketAppMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Coder41/src/com/bornforthis/supermarket/LittleSuperMarket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Coder41/src/com/bornforthis/supermarket/MerchandiseV2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Coder41/src/com/bornforthis/supermarket/MerchandiseV2DescAppMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Coder42/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Coder42/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Coder42/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Coder42/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Coder42/Coder42.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Coder42/src/com/bornforthis/RunLittleSupperMarketAppMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Coder42/src/com/bornforthis/RunLittleSupperMarketAppMainExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Coder42/src/com/bornforthis/RunLittleSupperMarketAppMainV2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Coder42/src/com/bornforthis/supermarket/LittleSuperMarket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Coder42/src/com/bornforthis/supermarket/MerchandiseV2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../T0Mnn/Coder01/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../T0Mnn/Coder01/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../T0Mnn/Coder01/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../T0Mnn/Coder01/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../T0Mnn/Coder01/Coder01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../T0Mnn/Coder01/out/production/Coder01/demo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../T0Mnn/Coder01/src/demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../T0Mnn/Coder02/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../T0Mnn/Coder02/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../T0Mnn/Coder02/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../T0Mnn/Coder02/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../T0Mnn/Coder02/Coder02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../T0Mnn/Coder02/out/production/Coder02/MathCalc.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../T0Mnn/Coder02/out/production/Coder02/Variable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../T0Mnn/Coder02/out/production/Coder02/demo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../T0Mnn/Coder02/src/MathCalc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../T0Mnn/Coder02/src/Variable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../T0Mnn/Coder02/src/demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder16/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder16/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder16/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder16/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder16/Coder16.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder16/out/production/Coder16/abd_demo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder16/out/production/Coder16/demo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder16/out/production/Coder16/demo2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder16/src/abd_demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder16/src/demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder16/src/demo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder16/src/demo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder16/src/demo4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder17/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder17/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder17/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder17/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder17/Coder17.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder17/out/production/Coder17/demo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder17/src/RandomNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder17/src/array_learning.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder17/src/demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder17/src/demo10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder17/src/demo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coder17/src/used_array_save_score.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coder20.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Coder20/ArrayToString.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayToString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Coder39/out/production/Coder39/com/bornforthis/step2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Coder39/out/production/Coder39/com/bornforthis/step2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Coder39/src/com/bornforthis/step2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Coder39/src/com/bornforthis/step2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02malin/Coder09/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../02malin/Coder09/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02malin/Coder10/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../02malin/Coder10/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2KM2Tk9f0Lb94ZAZnFVDP1PvC5E" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Sort">
+    <configuration name="ArrayToString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayToString" />
+      <module name="Coder20" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sort" />
+      <module name="Coder20" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo" />
+      <module name="Coder20" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Sort" />
+        <item itemvalue="Application.demo" />
+        <item itemvalue="Application.ArrayToString" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="49898ed7-47b2-489c-95c9-a51359dfb585" name="Changes" comment="" />
+      <created>1673770143913</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1673770143913</updated>
+      <workItem from="1673770145048" duration="6095000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
